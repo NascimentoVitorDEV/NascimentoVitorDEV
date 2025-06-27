@@ -10,7 +10,7 @@ Sobre mim:
 - 🌱 Estudando SQL, Power BI, Python e DataBriks
 - 📫 Como me contactar: nascimentovitor@753gmail.com
 
-##
+<br>
 
 Ferramentas e Tecnologias:
 
