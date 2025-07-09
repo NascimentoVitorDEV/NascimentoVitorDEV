@@ -41,7 +41,7 @@ Onde me Encontrar:
 
 <p>
 🔗 <a href="https://github.com/NascimentoVitorDEV/ProjetoSakila" target="_blank">Acessar repositório no GitHub</a><br>
-📊 <a href="https://app.powerbi.com/view?r=LINK_DO_SEU_RELATORIO_PUBLICADO" target="_blank">Visualizar Dashboard no Power BI</a>
+📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiZWQzZDk0ZmMtMjk3NS00Y2E0LWFkMzYtNDI1YWIwNjg3OTI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Visualizar Dashboard no Power BI</a>
 </p>
 
 
