@@ -34,7 +34,7 @@ Onde me Encontrar:
 
 <h2> Análise de Aluguéis de Filmes com Power BI e MySQL — Base Sakila</h2>
 <p align="center">
-   <img src="https://github.com/NascimentoVitorDEV/ProjetoSakila/blob/main/Imagens/captura1.png" alt="Dashboard Power BI Sakila" style="width: 70%; border: 1px solid #ddd; padding: 5px;">
+   <img src="https://github.com/NascimentoVitorDEV/ProjetoSakila/blob/main/Imagens/1ofc.png" alt="Dashboard Power BI Sakila" style="width: 70%; border: 1px solid #ddd; padding: 5px;">
 </p>
 
 <p>O projeto <strong>“Análise de Aluguéis de Filmes com Power BI e MySQL - Base Sakila”</strong> foi desenvolvido com o objetivo de aplicar técnicas de análise de dados a partir de uma base de dados relacional amplamente utilizada em ambientes de ensino: a base Sakila. Essa base simula o funcionamento de uma locadora de filmes e apresenta um contexto ideal para desenvolver análises voltadas à performance operacional e comercial do negócio.</p>
